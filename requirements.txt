@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+scipy
+librosa
+gtts
